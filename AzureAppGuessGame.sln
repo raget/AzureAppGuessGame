@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAppGuessGame", "AzureAppGuessGame\AzureAppGuessGame.csproj", "{79154E0C-2BF2-4E22-9274-144C59563913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolverTests", "SolverTests\SolverTests.csproj", "{2951D3FF-8293-44C7-8689-19CF5DF75450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solver", "Solver\Solver.csproj", "{FAF221D1-E6EE-4F31-A229-9B862C4946F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79154E0C-2BF2-4E22-9274-144C59563913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79154E0C-2BF2-4E22-9274-144C59563913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79154E0C-2BF2-4E22-9274-144C59563913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79154E0C-2BF2-4E22-9274-144C59563913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2951D3FF-8293-44C7-8689-19CF5DF75450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2951D3FF-8293-44C7-8689-19CF5DF75450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2951D3FF-8293-44C7-8689-19CF5DF75450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2951D3FF-8293-44C7-8689-19CF5DF75450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF221D1-E6EE-4F31-A229-9B862C4946F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF221D1-E6EE-4F31-A229-9B862C4946F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF221D1-E6EE-4F31-A229-9B862C4946F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF221D1-E6EE-4F31-A229-9B862C4946F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
